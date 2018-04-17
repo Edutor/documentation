@@ -1,6 +1,9 @@
-[
-  { "name": "P1 Must have"
+[ { "name": "P1 Must have"
   , "description": "Essential for next release to give value"
   , "color": "0e8a16"
+  }
+, { "name": "P2 Should have"
+  , "description": "Promised feature for next release"
+  , "color": "c2e0c6"
   }
 ]
