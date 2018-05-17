@@ -5,3 +5,4 @@ Documentation and common API files
 
 * [Kotlin Exposed](https://github.com/JetBrains/Exposed/wiki)
 * [MySql on docker](https://hub.docker.com/r/mysql/mysql-server/)
+* [MySql on Vagrant](https://github.com/AlexDisler/mysql-vagrant)
