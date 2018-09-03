@@ -1,3 +1,7 @@
+# Meetings
+
+* [Styregruppemøde 2018-08-31](meeting/2018-08-31 Styregruppemøde.md)
+
 # edutor-api
 Documentation and common API files
 
