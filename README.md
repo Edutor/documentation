@@ -1,6 +1,6 @@
 # Meetings
 
-* [Styregruppemøde 2018-08-31](meeting/2018-08-31 Styregruppemøde.md)
+* [Styregruppemøde 2018-08-31](https://github.com/Edutor/documentation/blob/master/meetings/2018-08-31%20Styregruppemøde.md)
 
 # edutor-api
 Documentation and common API files
